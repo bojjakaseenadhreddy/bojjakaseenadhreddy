@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Kaseenadh Reddy Bojja, a `Software Engineer` 👨‍💻, `Computer Science` graduate, and `Bicycle lover` 🚴‍♂️.
+My name is _Kaseenadh Reddy Bojja_, a `Software Engineer` 👨‍💻, `Computer Science` graduate, and `Bicycle lover` 🚴‍♂️.
 
 I have worked as a Software Engineer for [ForeverLiving Products](https://www.foreverliving.com) from Dec 2019 - Jan 2022 (2y 1m).
 
