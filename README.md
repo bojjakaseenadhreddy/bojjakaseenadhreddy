@@ -15,7 +15,7 @@ I have worked as a Software Engineer for [ForeverLiving Products](https://www.fo
 
 ## Skills
 
-**Programming Languages :** `Java`, `JavaScript`, `TypeScript`
+**Programming Languages:** `Java`, `JavaScript`, `TypeScript`
 
 **Frameworks:** `Spring Boot`, `Hibernate`, `Angular`
 
@@ -24,3 +24,11 @@ I have worked as a Software Engineer for [ForeverLiving Products](https://www.fo
 **Tools:** `Git`, `Jira`
 
 **Others:**:  `Kafka`, `MySQL workbech`
+
+
+## Education:
+
+| Level | University | Major |GPA     | Year  |
+| ---   | ----       | ----- | ----  | -----  |
+| Masters (USA) | Texas A&M University-Commerce | Computer Science | 3.98/4.0 | Aug 2022 - May 2024 |
+| Bachelors (India) | Sree Rama Engineering College | Electronics And Communications Engineering | 3.20/4.0 | July 2015 - May 2019 |
