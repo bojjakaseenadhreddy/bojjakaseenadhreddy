@@ -2,10 +2,10 @@
 
 My name is Kaseenadh Reddy Bojja, a `Software Engineer` 👨‍💻, `Computer Science` graduate, and `Bicycle lover` 🚴‍♂️.
 
-I have worked as a Software Engineer for [ForeverLiving Products](https://www.foreverliving.com) from Dec 2019 - Jan 2022.
+I have worked as a Software Engineer for [ForeverLiving Products](https://www.foreverliving.com) from Dec 2019 - Jan 2022 (2y 1m).
 
 
-### Project Contributions:
+## Project Contributions
 
 - [x] Improved 📈 in-store sales by 20% by implementing the Split Payment for POS systems.
 - [x] Improved product delivery efficiency with the Pickup Dropoff (PUDO) feature 📦.
@@ -13,4 +13,14 @@ I have worked as a Software Engineer for [ForeverLiving Products](https://www.fo
 - [x] Enhanced the checkout 💳 experience with Adyen (payment provider) integration, enabling effortless payment retries.
 - [x] Consumed third-party payment provider webhooks effectively to securely 🔒 save cards to user accounts, resulting in a faster checkout experience
 
+## Skills
 
+**Programming Languages :** `Java`, `JavaScript`, `TypeScript`
+
+**Frameworks:** `Spring Boot`, `Hibernate`, `Angular`
+
+**Database:** `MySQL`, `MongoDB`
+
+**Tools:** `Git`, `Jira`
+
+**Others:**:  `Kafka`, `MySQL workbech`
